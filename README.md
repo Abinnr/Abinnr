@@ -6,10 +6,9 @@
 🔧 Skills & Tools<br>
 Languages & Frameworks:<br>
 Flutter, Java, C, C++, SQL, HTML/CSS, JavaScript<br>
-Machine Learning Basics (NPTEL - IIT Kharagpur)<br>
+Machine Learning Basics <br>
 Tools & Technologies:<br>
-Google Cloud (35 credits on Skill Boost)<br>
-GitHub, NetBeans, MySQL
+GitHub,NetBeans, MySQL
 <!--
 **Abinnr/Abinnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

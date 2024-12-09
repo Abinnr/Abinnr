@@ -1,7 +1,7 @@
 👋 Hello, I'm Abin NR!<br>
 🎓 Computer Science and Engineering Student at LBS College of Engineering, Kasaragod<br>
 💻 Flutter Developer | Web Designer | Aspiring AI/ML Enthusiast<br>
-🎨 Crafting solutions at the intersection of technology and creativity<br><br><br>
+🎨 Crafting solutions at the intersection of technology and creativity<br><br>
 
 🔧 Skills & Tools<br>
 Languages & Frameworks:<br>

@@ -1,14 +1,14 @@
 👋 Hello, I'm Abin NR!<br>
-🎓 Computer Science and Engineering Student at LBS College of Engineering, Kasaragod
-💻 Flutter Developer | Web Designer | Aspiring AI/ML Enthusiast
-🎨 Crafting solutions at the intersection of technology and creativity
+🎓 Computer Science and Engineering Student at LBS College of Engineering, Kasaragod<br>
+💻 Flutter Developer | Web Designer | Aspiring AI/ML Enthusiast<br>
+🎨 Crafting solutions at the intersection of technology and creativity<br><br><br>
 
-🔧 Skills & Tools
-Languages & Frameworks:
-Flutter, Java, C, C++, SQL, HTML/CSS, JavaScript
-Machine Learning Basics (NPTEL - IIT Kharagpur)
-Tools & Technologies:
-Google Cloud (35 credits on Skill Boost)
+🔧 Skills & Tools<br>
+Languages & Frameworks:<br>
+Flutter, Java, C, C++, SQL, HTML/CSS, JavaScript<br>
+Machine Learning Basics (NPTEL - IIT Kharagpur)<br>
+Tools & Technologies:<br>
+Google Cloud (35 credits on Skill Boost)<br>
 GitHub, NetBeans, MySQL
 <!--
 **Abinnr/Abinnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

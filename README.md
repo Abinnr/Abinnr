@@ -30,7 +30,7 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abinnr&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abinnr&count_private=true&show_icons=true&hide=stars&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinnr&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
@@ -44,6 +44,15 @@
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abinnr&theme=react-dark&area=true&hide_border=true" />
+  </a>
+</p>
+
+---
+
+## 🌐 GitHub 3D Contribution Graph  
+<p align="center">
+  <a href="https://github.com/Abinnr">
+    <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/main/3d-contrib-profile.gif" alt="3D GitHub Contribution" />
   </a>
 </p>
 

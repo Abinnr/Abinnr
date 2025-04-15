@@ -1,55 +1,65 @@
-<!-- Animated ReadMe for Abin NR -->
-<h1 align="center">
-  👋 Hello, I'm <span style="color:#F70000;">Abin NR</span>!
-</h1>
+<h1 align="center">👋 Hello, I'm Abin NR!</h1>
 
 <p align="center">
-  🎓 Computer Science and Engineering Student at <br><strong>LBS College of Engineering, Kasaragod</strong> <br>
-  💻 Flutter Developer | Web Designer | Aspiring AI/ML Enthusiast <br>
-  🎨 Crafting solutions at the intersection of technology and creativity
+🎓 Computer Science and Engineering Student at LBS College of Engineering, Kasaragod<br>
+💻 Flutter Developer | Web Designer | Aspiring AI/ML Enthusiast<br>
+🎨 Crafting solutions at the intersection of technology and creativity
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abinnr&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Abinnr&color=blue" alt="Profile Views" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Abin+NR;Flutter+%F0%9F%93%8D+Web+Developer;Cyber+Security+Community+Lead;Tech+Enthusiast+%F0%9F%A7%BE;Open+Source+Contributor+%F0%9F%92%AA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Abin+NR!;Flutter+%26+Web+Developer;Cyber+Security+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-## 🚀 Tech Stack & Tools  
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,java,python,cpp,html,css,js,dart,firebase,figma,git,github,mysql" alt="Tech stack" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abinnr&show_icons=true&theme=dark&title_color=00FFFF&icon_color=00F7FF&text_color=ffffff&bg_color=000000" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinnr&layout=compact&theme=dark&title_color=00FFFF&text_color=ffffff&bg_color=000000" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abinnr&theme=dark&hide_border=true&background=000000&ring=00FFFF&fire=00F7FF&currStreakLabel=ffffff" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abinnr&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinnr&layout=compact&theme=tokyonight" width="48%" />
-</p>
+## 🚀 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abinnr&theme=highcontrast" />
-</p>
-
----
-
-## 📈 Contribution Activity  
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abinnr&theme=react-dark&area=true&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abinnr&theme=github-compact&area=true&hide_border=true&color=00FFFF&line=00F7FF&bg_color=000000" alt="GitHub Activity Graph" />
   </a>
 </p>
 
 ---
 
-## 🌐 Connect With Me  
+## 🛠 Technologies & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/abin-nr/">
     <img src="https://img.shields.io/badge/LinkedIn-Abin%20NR-blue?style=for-the-badge&logo=linkedin" />
@@ -61,4 +71,11 @@
 
 ---
 
-<!-- You can personalize this section even more by adding blog links, projects, achievements etc. -->
+<!-- 
+🔧 Skills & Tools  
+Languages & Frameworks: Flutter, Java, C, C++, SQL, HTML/CSS, JavaScript  
+Machine Learning Basics  
+Tools & Technologies: GitHub, NetBeans, MySQL  
+
+**Abinnr/Abinnr** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+-->

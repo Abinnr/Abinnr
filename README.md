@@ -1,49 +1,64 @@
-👋 Hello, I'm Abin NR!<br>
-🎓 Computer Science and Engineering Student at LBS College of Engineering, Kasaragod<br>
-💻 Flutter Developer | Web Designer | Aspiring AI/ML Enthusiast<br>
-🎨 Crafting solutions at the intersection of technology and creativity<br><br>
+<!-- Animated ReadMe for Abin NR -->
+<h1 align="center">
+  👋 Hello, I'm <span style="color:#F70000;">Abin NR</span>!
+</h1>
 
-![Profile views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+<p align="center">
+  🎓 Computer Science and Engineering Student at <br><strong>LBS College of Engineering, Kasaragod</strong> <br>
+  💻 Flutter Developer | Web Designer | Aspiring AI/ML Enthusiast <br>
+  🎨 Crafting solutions at the intersection of technology and creativity
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=500&lines=Hi,+I'm+Abin+NR!;Flutter+&+Web+Developer;Cyber+Security+Enthusiast)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abinnr&style=flat-square&color=blue" alt="Profile views" />
+</p>
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=highcontrast)
-
-## 🚀 Activity Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🛠 Technologies & Tools
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Abin+NR;Flutter+%F0%9F%93%8D+Web+Developer;Cyber+Security+Community+Lead;Tech+Enthusiast+%F0%9F%A7%BE;Open+Source+Contributor+%F0%9F%92%AA" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-🚀 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abin%20NR-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abin-nr/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Abinnr-black?style=for-the-badge&logo=github)](https://github.com/Abinnr)  
+## 🚀 Tech Stack & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,java,python,cpp,html,css,js,dart,firebase,figma,git,github,mysql" alt="Tech stack" />
+</p>
 
-<!--
-🔧 Skills & Tools<br>
-Languages & Frameworks:<br>
-Flutter, Java, C, C++, SQL, HTML/CSS, JavaScript<br>
-Machine Learning Basics <br>
-Tools & Technologies:<br>
-GitHub,NetBeans, MySQL
+---
 
-**Abinnr/Abinnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abinnr&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinnr&layout=compact&theme=tokyonight" width="48%" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abinnr&theme=highcontrast" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📈 Contribution Activity  
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abinnr&theme=react-dark&area=true&hide_border=true" />
+  </a>
+</p>
+
+---
+
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/abin-nr/">
+    <img src="https://img.shields.io/badge/LinkedIn-Abin%20NR-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Abinnr">
+    <img src="https://img.shields.io/badge/GitHub-Abinnr-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<!-- You can personalize this section even more by adding blog links, projects, achievements etc. -->

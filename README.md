@@ -1,6 +1,6 @@
 <!-- Animated ReadMe for Abin NR -->
 <h1 align="center">
-  👋 H!!!!!! I'm <span style="color:#F70000;">Abin NR</span>!
+  👋 H!!!!! I'm <span style="color:#F70000;">Abin NR</span>!
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
 ## 🧑‍💻 About Me
 🎓 Computer Science and Engineering Student at <strong>LBS College of Engineering, Kasaragod</strong> <br>
 🎯 Aspiring Software Developer | Flutter Developer | Web Designer | Aspiring AI/ML Enthusiast <br>
-🛠️ Cyber Security Community Campus Lead at LBS College of Engineering <br>
+🛠️ Cyber Security Community Lead at LBS College of Engineering <br>
 🌍 Passionate about coding, building tech solutions, and contributing to open-source!
 
 ---
@@ -52,8 +52,8 @@
 ---
 
 ## 🚀 Fun Projects
-🔹 **AgriGo** – Helping small and marginal farmers sell their produce through a real-time auction system. <br>
 🔹 **Collaborative e-Governance Service** – A platform to assist disabled individuals with government services. <br>
+🔹 **AgriGo** – Helping small and marginal farmers sell their produce through a real-time auction system. <br>
 
 ---
 

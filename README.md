@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  Welcome to my digital hub! 🚀 Here, you'll find a blend of innovation, passion, and creativity as I explore the fascinating world of technology.
+  Welcome to my digital hub!  Here, you'll find a blend of innovation, passion, and creativity as I explore the fascinating world of technology.
 </p>
 
 ---
@@ -51,7 +51,7 @@
 
 ---
 
-## 🚀 Fun Projects
+## Ongoing Projects
 🔹 **Collaborative e-Governance Service** – A platform to assist disabled individuals with government services. <br>
 🔹 **AgriGo** – Helping small and marginal farmers sell their produce through a real-time auction system. <br>
 
@@ -71,7 +71,7 @@
 
 💡 "Code is like humor. When you have to explain it, it’s bad."
 
-🔗 Check out my repositories and let’s build something great! 🚀
+🔗 Check out my repositories and let’s build something great! 
 
 ---
 <!-- You can personalize this section even more by adding blog links, projects, achievements, etc. -->

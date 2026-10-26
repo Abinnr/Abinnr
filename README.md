@@ -46,7 +46,6 @@ Computer Science & Engineering graduate who likes building things with code.
 ### Statistics & Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abinnr&show_icons=true&theme=transparent&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinnr&layout=compact&theme=transparent&hide_border=true" width="48%" />
 </p>
 

@@ -17,7 +17,7 @@
 
 ---
 
-## About Me
+## Who is this guy?
 
 Computer Science & Engineering graduate who likes building things with code.
 

@@ -32,7 +32,7 @@ Computer Science & Engineering graduate who likes building things with code.
 ## Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,springboot,aws,nginx,redis,docker,git,github,mysql" alt="Technical Skills" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,redis,react,docker,aws,git,github" alt="Technical Skills" />
 </p>
 
 ### Areas of Interest

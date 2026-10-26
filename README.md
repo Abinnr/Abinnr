@@ -55,11 +55,6 @@ Computer Science & Engineering graduate who likes building things with code.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abinnr&theme=transparent&hide_border=true" />
 </p>
 
-### Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abinnr&theme=react-dark&area=true&hide_border=true" />
-</p>
 
 ---
 

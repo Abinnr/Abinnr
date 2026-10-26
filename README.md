@@ -1,77 +1,86 @@
-<!-- Animated ReadMe for Abin NR -->
-<h1 align="center">
-  👋 H!!!!! I'm <span style="color:#F70000;">Abin NR</span>!
-</h1>
+<!-- GitHub Profile README — Abin NR -->
+
+<h1 align="center">Abin NR</h1>
 
 <p align="center">
-  Welcome to my digital hub!  Here, you'll find a blend of innovation, passion, and creativity as I explore the fascinating world of technology.
+  Computer Science & Engineering Graduate · Software Engineer
 </p>
 
----
-
-## 🧑‍💻 About Me
-🎓 Computer Science and Engineering Student at <strong>LBS College of Engineering, Kasaragod</strong> <br>
-🎯 Aspiring Software Developer | Flutter Developer | Web Designer | Aspiring AI/ML Enthusiast <br>
-🛠️ Cyber Security Community Lead at LBS College of Engineering <br>
-🌍 Passionate about coding, building tech solutions, and contributing to open-source!
-
----
-
-## 🛠️ Tech Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,java,python,cpp,html,css,js,dart,firebase,figma,git,github,mysql" alt="Tech stack" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-### Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abinnr&style=flat-square&color=blue" alt="Profile views" />
-</p>
-
-### Stats & Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abinnr&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinnr&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
-### Streaks & Contributions
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abinnr&theme=highcontrast" />
-</p>
-
-### Contribution Activity  
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abinnr&theme=react-dark&area=true&hide_border=true" />
+  <a href="https://github.com/Abinnr">
+    <img src="https://img.shields.io/badge/GitHub-Abinnr-181717?style=flat-square&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/abin-nr/">
+    <img src="https://img.shields.io/badge/LinkedIn-Abin%20NR-0A66C2?style=flat-square&logo=linkedin" />
   </a>
 </p>
 
 ---
 
-## Ongoing Projects
-🔹 **Collaborative e-Governance Service** – A platform to assist disabled individuals with government services. <br>
-🔹 **AgriGo** – Helping small and marginal farmers sell their produce through a real-time auction system. <br>
+## About Me
+
+Computer Science & Engineering graduate who likes building things with code.
+
+- Software Engineer
+- Backend & Cloud
+- Cybersecurity
+- Open Source
+- Always learning something new
 
 ---
 
-## 🌐 Connect with Me
+## Technical Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,springboot,aws,nginx,redis,docker,git,github,mysql" alt="Technical Skills" />
+</p>
+
+### Areas of Interest
+
+**Backend** · **Cloud** · **DevOps** · **Cybersecurity** · **Distributed Systems**
+
+---
+
+## GitHub Analytics
+
+### Statistics & Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abinnr&show_icons=true&theme=transparent&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinnr&layout=compact&theme=transparent&hide_border=true" width="48%" />
+</p>
+
+### Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abinnr&theme=transparent&hide_border=true" />
+</p>
+
+### Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abinnr&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+---
+
+## Connect
+
 <p align="center">
   <a href="https://www.linkedin.com/in/abin-nr/">
-    <img src="https://img.shields.io/badge/LinkedIn-Abin%20NR-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Abin%20NR-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/Abinnr">
-    <img src="https://img.shields.io/badge/GitHub-Abinnr-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Abinnr-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-💡 "Code is like humor. When you have to explain it, it’s bad."
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it's bad."</i>
+</p>
 
-🔗 Check out my repositories and let’s build something great! 
-
----
-<!-- You can personalize this section even more by adding blog links, projects, achievements, etc. -->
+<p align="center">
+  <i>Building things. Learning things.</i>
+</p>
